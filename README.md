@@ -2,7 +2,7 @@
 
 <img src="https://aavesh.iiitu.ac.in/logo.webp" alt="Aavesh Logo" width="140"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6FF&height=180&section=header&text=&fontSize=0&animation=fadeIn&desc=Electronics%20%26%20Development%20Club&descAlignY=50&descSize=24&descColor=E0F7FA" width="100%"/>
+### Electronics & Development Club
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=640&lines=Electronics+%C3%97+AI+%C3%97+Open+Source;Research+%7C+Internships+%7C+Innovation;Building+the+Future%2C+One+Circuit+at+a+Time)](https://git.io/typing-svg)
 
@@ -28,8 +28,8 @@ We work at the intersection of **Electronics, Embedded Systems, AI/ML, and Softw
 <td align="center" width="140"><h2>2015</h2><sub>Founded</sub></td>
 <td align="center" width="140"><h2>150+</h2><sub>Active Members</sub></td>
 <td align="center" width="140"><h2>40+</h2><sub>Projects Built</sub></td>
-<td align="center" width="140"><h2>12+</h2><sub>Research Interns</sub></td>
-<td align="center" width="140"><h2>25+</h2><sub>OSS Contributions</sub></td>
+<td align="center" width="140"><h2>8</h2><sub>Research Interns</sub></td>
+<td align="center" width="140"><h2>4</h2><sub>OSS Contributions</sub></td>
 </tr>
 </table>
 
@@ -68,17 +68,22 @@ We work at the intersection of **Electronics, Embedded Systems, AI/ML, and Softw
 
 ## 🔬 Research Internships
 
-<img src="https://img.shields.io/badge/Entries-12+-0F2027?style=flat-square&labelColor=00C6FF"/>
+<img src="https://img.shields.io/badge/Entries-8-0F2027?style=flat-square&labelColor=00C6FF"/>
 
 Members who pursued research internships at **IITs and other premier institutes**, working across AI, ML, and allied domains.
 
 <div align="center">
 
-| Name | Institute | Domain / Lab | Duration | Mentor | Year |
-|:--|:--|:--|:--:|:--|:--:|
-| *e.g. Rahul Sharma* | *IIT Bombay* | *Computer Vision, CSE Dept.* | *May – Jul* | *Prof. XYZ* | *2026* |
-| | | | | | |
-| | | | | | |
+| Name | Institute | Domain | Duration | Year |
+|:--|:--|:--|:--:|:--:|
+| Naitik Pal | IIT Mandi | CV / Deepfake Detection | May – Jul | 2026 |
+| Yuvraj | IIT Bombay | Security Operations Centre | May – Jul | 2025 |
+| Mayank Joshi | IIT Ropar | RL / NLP | May – Jul | 2026 |
+| N. Sri Krishna | IIT Mandi | CV / Multi-Modal AI | Jan – Jun | 2026 |
+| Shivansh Pandey | IIT Mandi | CV / Multi-Modal | Jan – Jun | 2026 |
+| Sheena | IIT Roorkee | Deep Learning | Jul – Oct | 2025 |
+| Ashmeet Sandhu | IIT Mandi | Medical AI | Dec – May | 2026 |
+| Shashi Bhushan Raj | IIT BHU | Edge AI / Healthcare AI | May – Jul | 2026 |
 
 </div>
 
@@ -86,7 +91,7 @@ Members who pursued research internships at **IITs and other premier institutes*
 
 ## 💼 Industry / Startup Internships
 
-<img src="https://img.shields.io/badge/Entries-20+-0F2027?style=flat-square&labelColor=2C5364"/>
+<img src="https://img.shields.io/badge/Entries-3-2C5364?style=flat-square&labelColor=2C5364"/>
 
 Members interning at companies and startups, gaining hands-on industry exposure.
 
@@ -94,9 +99,9 @@ Members interning at companies and startups, gaining hands-on industry exposure.
 
 | Name | Company / Startup | Role | Duration | Year |
 |:--|:--|:--|:--:|:--:|
-| *e.g. Priya Mehta* | *Company Name* | *Embedded Systems Intern* | *Jun – Aug* | *2026* |
-| | | | | |
-| | | | | |
+| Aryan Raj | ModelSuite.ai | Full Stack Developer Intern | May – Jul | 2026 |
+| Jayani Srivastava | Urban Grih | Web Developer Intern | Jun – Aug | 2026 |
+| Aditya Pandey | RivoMind | AI Engineer Intern | Jun – Aug | 2026 |
 
 </div>
 
@@ -104,7 +109,7 @@ Members interning at companies and startups, gaining hands-on industry exposure.
 
 ## 🌐 Open Source Contributions
 
-<img src="https://img.shields.io/badge/Entries-25+-0F2027?style=flat-square&labelColor=00C6FF"/>
+<img src="https://img.shields.io/badge/Entries-4-0F2027?style=flat-square&labelColor=00C6FF"/>
 
 Contributions from Aavesh members to open-source projects — big or small, every PR counts.
 
@@ -112,9 +117,10 @@ Contributions from Aavesh members to open-source projects — big or small, ever
 
 | Name | Project / Org | Contribution | Link | Domain |
 |:--|:--|:--|:--:|:--|
-| *e.g. Aman Verma* | *CPython* | *Fixed a parser bug* | *[PR #1234](#)* | *Compilers* |
-| | | | | |
-| | | | | |
+| Naitik Pal | unslothai/unsloth | Added CPU backend override support for llama.cpp (`UNSLOTH_LLAMA_CPP_BACKEND=cpu`), enabling reliable fallback on incompatible GPU/Vulkan setups | [PR #7228](https://github.com/unslothai/unsloth/pull/7228) | LLM Infrastructure |
+| Deep Shekhar | apache/apisix-dashboard | Added end-to-end tests covering Services listing, pagination, and CRUD workflows with required and full configurations | [PR #3258](https://github.com/apache/apisix-dashboard/pull/3258) | Software Testing / QA |
+| Yuvraj Singh Chauhan | OpenHands/OpenHands | Implemented Tree-sitter AST-based semantic code chunking to split source files along logical boundaries within max chunk sizes | [PR #14699](https://github.com/OpenHands/OpenHands/pull/14699) | Code Intelligence / Developer Tools |
+| Pranav Garg | koala73/worldmonitor | Fixed multiple API security & correctness issues — spoofable rate limiting, unbounded inputs, SSRF redirect validation, broad origin matching | [PR #1013](https://github.com/koala73/worldmonitor/pull/1013) | Cybersecurity / API Security |
 
 </div>
 
@@ -146,9 +152,8 @@ Not comfortable with Git? Fill out **[this form](#)** instead and a maintainer w
 
 | Role | Name |
 |:--|:--|
-| Faculty Coordinator | *TBD* |
-| President | *TBD* |
-| Vice President | *TBD* |
+| President | Pranav Garg |
+| Vice President | Rishav Raaj |
 | Technical Lead | *TBD* |
 
 </div>
