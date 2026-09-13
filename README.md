@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[Aavesh_Logo.png](https://aavesh.iiitu.ac.in/logo.webp)" alt="Aavesh Logo" width="140"/>
+<img src="https://aavesh.iiitu.ac.in/logo.webp" alt="Aavesh Logo" width="140"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6FF&height=180&section=header&text=&fontSize=0&animation=fadeIn&desc=Electronics%20%26%20Development%20Club&descAlignY=50&descSize=24&descColor=E0F7FA" width="100%"/>
 
