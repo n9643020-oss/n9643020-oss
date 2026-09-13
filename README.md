@@ -76,14 +76,15 @@ Members who pursued research internships at **IITs and other premier institutes*
 | Name | Institute | Domain | Duration | Year |
 |:--|:--|:--|:--:|:--:|
 | Ujjawal Mishra | IIT Mandi | CV / NLP | Sep 2024 – Jun 2026 | 2024–26 |
+| Yuvraj | IIT Bombay | Security Operations Centre | May – Jul | 2025 |
+| Sheena | IIT Roorkee | Deep Learning | Jul – Oct | 2025 |
 | Naitik Pal | IIT Mandi | CV / Deepfake Detection | May – Jul | 2026 |
 | Mayank Joshi | IIT Ropar | RL / NLP | May – Jul | 2026 |
 | N. Sri Krishna | IIT Mandi | CV / Multi-Modal AI | Jan – Jun | 2026 |
 | Shivansh Pandey | IIT Mandi | CV / Multi-Modal | Jan – Jun | 2026 |
 | Ashmeet Sandhu | IIT Mandi | Medical AI | Dec – May | 2026 |
 | Shashi Bhushan Raj | IIT BHU | Edge AI / Healthcare AI | May – Jul | 2026 |
-| Yuvraj | IIT Bombay | Security Operations Centre | May – Jul | 2025 |
-| Sheena | IIT Roorkee | Deep Learning | Jul – Oct | 2025 |
+
 
 </div>
 
