@@ -19,7 +19,7 @@
 
 ## 📌 About Aavesh
 
-> *Aavesh is the Electronics and Development Club of **[Your College Name]**, driving a culture of hands-on learning, applied research, and open innovation.*
+> *Aavesh is the Electronics and Development Club of **IIITU**, driving a culture of hands-on learning, applied research, and open innovation.*
 
 We work at the intersection of **Electronics, Embedded Systems, AI/ML, and Software Development** — and this repository is the living record of what our members go on to build, research, and contribute to, both inside and outside the club.
 
