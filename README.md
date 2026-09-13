@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6FF&height=220&section=header&text=AAVESH&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Electronics%20%26%20Development%20Club&descAlignY=55&descSize=20&descColor=E0F7FA" width="100%"/>
+<img src="Aavesh_Logo.png" alt="Aavesh Logo" width="140"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6FF&height=180&section=header&text=&fontSize=0&animation=fadeIn&desc=Electronics%20%26%20Development%20Club&descAlignY=50&descSize=24&descColor=E0F7FA" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=640&lines=Electronics+%C3%97+AI+%C3%97+Open+Source;Research+%7C+Internships+%7C+Innovation;Building+the+Future%2C+One+Circuit+at+a+Time)](https://git.io/typing-svg)
 
